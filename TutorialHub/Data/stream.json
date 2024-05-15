@@ -7,6 +7,10 @@
         "iframe": "https://scribehow.com/embed/Create_New_Rental__GqAlOBC_R3aDHDnAO6FUmw?skipIntro=true"
       },
       {
+        "title": "Create a \"quick swap\" change-over",
+        "description": "To create a change-over, load up your instance of Stream.<br/>For for this example, we'll use the <a href=\"https://yph-stream-dev.azurewebsites.net/\"; target=\"_blank\">YPH dev slot</a><br/>Now follow these steps:",
+        "iframe": "https://scribehow.com/embed/Create_a_quick_swap_change-over__IHd5HnALQZWzzZQpHOha-A"
+      },      {
         "title": "Change existing rental order to a change-over",
         "description": "<p>When a container/skip is delivered to a customer on a regular occurance it's classed as a \"change-over\":<ul><li>A skip is delivered</li><li>A driver collects it at a later date and drops off a new one at the same time</li><li>The process is repeated until the customer no longer requires the service.</li></ul>To create a \"change over\", load up your instance of Stream.<br/>For for this example, we'll use the <a href=\"https://yph-stream-dev.azurewebsites.net/\"; target=\"_blank\">YPH dev slot</a><br/>Now follow these steps:",
         "iframe": "https://scribehow.com/embed/Change_existing_rental_order_to_a_change-over__Y6YLIgrPTfKvFVqQCzomKA?skipIntro=true"
